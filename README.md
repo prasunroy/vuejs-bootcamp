@@ -1,4 +1,4 @@
-# *Vue.js Bootcamp*
+# Vue.js Bootcamp
 <img align='right' height='80' src='https://github.com/prasunroy/vuejs-bootcamp/blob/master/assets/logo.png' />
 
 ![badge](https://github.com/prasunroy/vuejs-bootcamp/blob/master/assets/badge_1.svg)
